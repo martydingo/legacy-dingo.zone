@@ -1,3 +1,9 @@
+---
+title: A Template Python CLI Application
+tags: python python3 template cli application linux
+excerpt: "Here's a template python CLI application that, when executed directly, loads a YAML configuration (being specificed as an argument at execution via CLI) and defines this as `self.config`. that I use to as a quick starting point to build more specialised / niche tools with " 
+---
+
 # A Template Python CLI Application
 
 ## Overview
