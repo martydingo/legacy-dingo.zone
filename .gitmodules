@@ -1,0 +1,6 @@
+[submodule "posts-dingo.zone"]
+	path = posts-dingo.zone
+	url = https://github.com/martydingo/posts-dingo.zone.git
+[submodule "_posts"]
+	path = _posts
+	url = https://github.com/martydingo/posts-dingo.zone.git
